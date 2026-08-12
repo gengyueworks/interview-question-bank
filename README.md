@@ -19,6 +19,8 @@
 ```
 interview-question-bank/
 ├── 00-english-sentence-models/  # 口语表达方法论：句子模型（建议先读）
+│   ├── q.md                      # 预制菜口语：半成品句子框架 + 填空
+│   └── 句模系统-HeyMatt.md        # 句库/句模理念（硬核的HeyMatt）+ 六步法
 ├── 01-self-introduction/     # 自我介绍
 ├── 02-why-hire-you/          # 为什么应该录用你
 ├── 03-greatest-strength/     # 最大优势
