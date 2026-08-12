@@ -18,6 +18,7 @@
 
 ```
 interview-question-bank/
+├── 00-english-sentence-models/  # 口语表达方法论：句子模型（建议先读）
 ├── 01-self-introduction/     # 自我介绍
 ├── 02-why-hire-you/          # 为什么应该录用你
 ├── 03-greatest-strength/     # 最大优势
@@ -29,7 +30,8 @@ interview-question-bank/
 ├── 09-handle-stress/         # 压力与情绪管理
 ├── 10-persuade-team/         # 说服团队采纳方案 ⭐
 ├── 11-prioritize-tasks/      # 多任务优先级管理
-└── 12-difficult-decision/    # 困难决策 ⭐
+├── 12-difficult-decision/    # 困难决策 ⭐
+└── 13-interview-science/     # 面试的科学 · 书摘（面试风格理论，先读它再答别的题）
 ```
 
 > ⭐ = 行为面试题（Behavioral Question），必须用 STAR 结构回答
